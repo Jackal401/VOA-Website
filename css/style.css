@@ -42,6 +42,14 @@ h1 {
     font-size: 1.95em;
 }
 
+.icon {
+    width: 75%;
+}
+
+#marginUp {
+    margin-top: 7.5em;
+}
+
 .sect {
     width: auto;
     margin: 2em 1em 1em 1em;
